@@ -38,7 +38,7 @@ Here is my CV. [my CV]({{ site.url }}/assets/CV.pdf).
 
 
 <div style="min-height:70px;margin-bottom:5px">
-<a href="https://em-lyon.com/en">
+<a href="https://em-lyon.com/en/saeed-varasteh-yazdi/briefly">
 <img style="width:60px; float: right;" alt="EMLYON" src="{{ site.url }}/assets/images/emlyon.png">
 </a>
 </div>
