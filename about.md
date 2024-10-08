@@ -34,8 +34,6 @@ Before that, I was a postdoctoral research associate at LIG (Grenoble Informatio
 </ul>
 </p>
 <hr/>
-Here is my CV. [my CV]({{ site.url }}/assets/CV.pdf).
-
 
 <div style="min-height:70px;margin-bottom:5px">
 <a href="https://em-lyon.com/en/saeed-varasteh-yazdi/briefly">
